@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>boomer.memes</packageId>
+	<name>ideology expansion</name>
+	<author>boomer</author>
+	<description>Currently:
+- Allows nutrient paste to be used with any meme except Flesh Purity, Rancher, and Cannibal
+- Increases tree pruning speed: 0.01 -> 0.02
+- Moves Proselytizer to low impact
+- Overhauls Individualist
+- Overhauls Loyalist
+- Removes Trees: Desired precept from Gauranlen Connection meme
+- Renames Tree connection meme to Gauranlen connection</description>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modVersion>1.5.0</modVersion>
+	<modIconPath IgnoreIfNoMatchingField="True" />
+	<url />
+	<modDependencies />
+	<loadBefore />
+	<loadAfter>
+		<li>ludeon.rimworld.royalty</li>
+		<li>ludeon.rimworld.ideology</li>
+		<li>ludeon.rimworld.biotech</li>
+		<li>ludeon.rimworld.anomaly</li>
+		<li>boomer.patches</li>
+	</loadAfter>
+	<incompatibleWith />
+</ModMetaData>
