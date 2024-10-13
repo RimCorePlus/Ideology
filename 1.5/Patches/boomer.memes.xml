@@ -1,0 +1,16 @@
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<!--Remove Trees: Desired precept requirement from Gauranlen Connection meme-->
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/PreceptDef[defName="Comfort_Ignored"
+					or defName="Pain_Ignored"
+					or defName="RoughLiving_Welcomed"
+					or defName="SmallSpaces_Acceptable"]/requiredMemes</xpath>
+				<value>
+					<li>RuggedLiving</li>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

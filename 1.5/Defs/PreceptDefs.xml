@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- Precepts // needs work
+	<PreceptDef>
+		<defName>Pain_Ignored</defName>
+		<issue>Pain</issue>
+		<label>ignored</label>
+		<description>Pain is weakness leaving the body.</description>
+		<impact>Low</impact>
+		<displayOrderInImpact>100</displayOrderInImpact>
+		<requiredMemes>
+			<li>RuggedLiving</li>
+		</requiredMemes>
+		<comps>
+			<li Class="PreceptComp_SituationalThought">
+				<description>Pain</description>
+				<thought>Pain_Ignored</thought>
+				<tooltipShowMoodRange>true</tooltipShowMoodRange>
+			</li>
+		</comps>
+	</PreceptDef> -->
+
+	<!-- Thoughts // needs work
+	<ThoughtDef>
+		<defName>Pain_Ignored</defName>
+		<workerClass>ThoughtWorker_Precept_Pain</workerClass>
+		<validWhileDespawned>true</validWhileDespawned>
+		<nullifyingTraits>
+			<li>Masochist</li>
+			<li>Wimp</li>
+		</nullifyingTraits>
+		<stages>
+			<li>
+				<label>minor pain</label>
+				<description>Just keep going.</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+			<li>
+				<label>serious pain</label>
+				<description>Just keep going.</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+			<li>
+				<label>intense pain</label>
+				<description>Just keep going.</description>
+				<baseMoodEffect>15</baseMoodEffect>
+			</li>
+			<li>
+				<label>mind-shattering pain</label>
+				<description>Fuck... Just keep going.</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef> -->
+
+</Defs>
