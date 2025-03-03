@@ -1,7 +1,7 @@
 <Patch>
 	<Operation Class="VFECore.PatchOperationToggableSequence">
 		<enabled>True</enabled>
-		<label>rework Individualist</label>
+		<label>rework individualist</label>
 		<operations>
 			<li Class="PatchOperationConditional">
 				<xpath>//PreceptDef[defName="DrugUse_Prohibited"]/conflictingMemes</xpath>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!-- needs a rewrite
-	<MemeDef>
+	<!-- needs a rewrite<MemeDef>
 		<defName>RuggedLiving</defName>
 		<label>rugged living</label>
 		<description>Comfort shouldn't take precedent over growth.</description>
@@ -100,6 +98,5 @@
 			<li>Greedy</li>
 			<li>Jealous</li>
 		</disagreeableTraits>
-	</MemeDef>
-	-->
+	</MemeDef>-->
 </Defs>

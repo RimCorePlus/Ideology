@@ -1,6 +1,5 @@
 <Patch>
-	<!--
-	<Operation Class="PatchOperationSequence">
+	<!--<Operation Class="PatchOperationSequence">
 		<operations>
 			<li Class="PatchOperationAdd">
 				<xpath>//PreceptDef[defName="Comfort_Ignored"
@@ -12,6 +11,5 @@
 				</value>
 			</li>
 		</operations>
-	</Operation>
-	-->
+	</Operation>-->
 </Patch>
