@@ -1,0 +1,19 @@
+<Patch>
+    <!--rename tree connection to gauranlen connection-->
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/MemeDef[defName="TreeConnection"]/label</xpath>
+        <value>
+            <label>gauranlen connection</label>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/MemeDef[defName="TreeConnection"]/description</xpath>
+        <value>
+            <description>Gauranlen trees are the essence of life, and we must be near them.</description>
+        </value>
+    </Operation>
+    <!--remove trees: desired precept requirement from gauranlen/tree connection meme-->
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/MemeDef[defName="TreeConnection"]/requireOne/li[li="Trees_Desired"]</xpath>
+    </Operation>
+</Patch>

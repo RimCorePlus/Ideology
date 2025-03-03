@@ -1,7 +1,6 @@
 <Patch>
 	<Operation Class="PatchOperationSequence">
 		<operations>
-			<!--Remove Trees: Desired precept requirement from Gauranlen Connection meme-->
 			<li Class="PatchOperationAdd">
 				<xpath>Defs/PreceptDef[defName="Comfort_Ignored"
 					or defName="Pain_Ignored"
