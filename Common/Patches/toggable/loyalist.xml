@@ -4,9 +4,9 @@
 		<label>rework loyalist</label>
 		<operations>
 			<li Class="PatchOperationConditional">
-				<xpath>Defs/MemeDef[defName="Loyalist"]/requireOne</xpath>
+				<xpath>//MemeDef[defName="Loyalist"]/requireOne</xpath>
 				<nomatch Class="PatchOperationAdd">
-					<xpath>Defs/MemeDef[defName="Loyalist"]</xpath>
+					<xpath>//MemeDef[defName="Loyalist"]</xpath>
 					<value>
 						<requireOne>
 							<li>
@@ -17,7 +17,7 @@
 					</value>
 				</nomatch>
 				<match Class="PatchOperationAdd">
-					<xpath>Defs/MemeDef[defName="Loyalist"]/requireOne</xpath>
+					<xpath>//MemeDef[defName="Loyalist"]/requireOne</xpath>
 					<value>
 						<li>
 							<li>Apostasy_Abhorrent</li>
