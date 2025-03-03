@@ -1,4 +1,5 @@
 <Patch>
+	<!--
 	<Operation Class="PatchOperationSequence">
 		<operations>
 			<li Class="PatchOperationAdd">
@@ -12,4 +13,5 @@
 			</li>
 		</operations>
 	</Operation>
+	-->
 </Patch>
