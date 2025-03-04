@@ -1,7 +1,7 @@
 # ideology expansion
 Scope of this mod:
-- Add new memes, precepts, styles and other content requiring Rimworld - Ideology
-- Rework memes, precepts, styles, and other content requiring Rimworld - Ideology
+- Add new memes, precepts, styles and other content requiring Ideology
+- Rework memes, precepts, styles, and other content requiring Ideology
 
 Bloat removal should be done by [fried rice](https://github.com/boomersama/boomer.patches) so any additional changes can be built upon by this mod.
 
@@ -12,10 +12,13 @@ Rugged living is being rewritten, so this mod currently adds nothing.
 ### Individualist
 - Prevents drug use: prohibited
 - Prevents lovin: spouse only (moderate, strict), horrible, and prohibited
+
 ### Loyalist
 - Requires apostasy: abhorrent and horrible
+
 ### Proselytizer
 - Moved to low impact
+
 ### Tree connection
 - Renamed to gauranlen connection
 - Removes trees: desired requirement to focus the meme on gauranlen mechanics
