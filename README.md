@@ -1,4 +1,6 @@
 # ideology expansion
+![](About/Preview.png)
+
 Scope of this mod:
 - Add new memes, precepts, styles and other content requiring Ideology
 - Rework memes, precepts, styles, and other content requiring Ideology
