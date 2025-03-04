@@ -11,6 +11,11 @@
 	<url>https://github.com/friedriceworld/ideology-expansion</url>
 	<modDependencies>
 		<li>
+			<packageId>Ludeon.RimWorld.Ideology</packageId>
+			<displayName>Ideology</displayName>
+			<steamWorkshopUrl>IdeologysSteamStorePage</steamWorkshopUrl>
+		</li>
+		<li>
 			<packageId>friedrice.patches</packageId>
 			<displayName>fried rice</displayName>
 			<steamWorkshopUrl />
@@ -19,11 +24,8 @@
 	</modDependencies>
 	<loadBefore />
 	<loadAfter>
-		<li>ludeon.rimworld.royalty</li>
-		<li>ludeon.rimworld.ideology</li>
-		<li>ludeon.rimworld.biotech</li>
-		<li>ludeon.rimworld.anomaly</li>
 		<li>friedrice.patches</li>
+		<li>friedrice.noegg</li>
 	</loadAfter>
 	<incompatibleWith />
 </ModMetaData>

@@ -5,7 +5,7 @@ Scope of this mod:
 - Add new memes, precepts, styles and other content requiring Ideology
 - Rework memes, precepts, styles, and other content requiring Ideology
 
-Bloat removal should be done by [fried rice](https://github.com/friedriceworld/fried-rice) so any additional changes can be built upon by this mod.
+Changes to external mods should be done in [mods debloated](https://github.com/friedriceworld/mods-debloated).
 
 ## Additions
 Rugged living is being rewritten, so this mod currently adds nothing.
