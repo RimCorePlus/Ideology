@@ -10,74 +10,34 @@
 [badge-dlc-anomaly]: https://img.shields.io/badge/DLC-Anomaly-darkseagreen
 
 # ideology expansion
-![](About/Preview.png)
-
+![](About/Preview.png)\
 [![GPLv3][badge-license]](https://www.gnu.org/licenses/gpl-3.0) ![Supports Ideology][badge-dlc-ideology]
 
 Scope of this mod:
 - Add new memes, precepts, styles and other content requiring Ideology
 - Rework memes, precepts, styles, and other content requiring Ideology
 
-Changes to external mods should be done in [mods debloated](https://github.com/friedriceworld/mods-debloated).
-
-## Additions
-Rugged living is being rewritten, so this mod currently adds nothing.
-
 ## Changes
 ### Individualist
 - Prevents drug use: prohibited
 - Prevents lovin: spouse only (moderate, strict), horrible, and prohibited
-
 ### Loyalist
 - Requires apostasy: abhorrent and horrible
-
 ### Proselytizer
 - Moved to low impact
-
 ### Tree connection
 - Renamed to gauranlen connection
 - Removes trees: desired requirement to focus the meme on gauranlen mechanics
 
-## To-do:
-### Add rugged living meme
-- Medium impact
-- Start with research: pemmican
-- Rough living: welcomed
-- Temperature: tough
-- Comfort: ignored
-- Fungus: don't care
-- Barracks: preferred
-- Autonomous weapons: despised
-- - mood debuffs for using autonomous weapons (-6 mood "we shouldn't rest on our laurels" or something)
+## Version 1.0:
+- [ ] Add rugged living meme
+- [ ] Rework collectivist
+- [ ] Rework individualist
+- [ ] Rework supremacist
+- [ ] Rework loyalist
+- [ ] Rework gender supremacy
 
-The idea is to remove some of the early-game debuffs related to resource scarcity in exchange for debuffing late-game conveniences. Should also improve caravan morale.
-
-### Rework collectivist
-- Global work speed: +4%
-
-Individualist doesn't do much at all compared to collectivist, which triples work drive duration. I'd like to revisit these under an autocratic/liberal lens. The idea being autocratic ideologies promote productivity and liberal ideologies promote creativity.
-
-### Rework individualist
-- Art quality: +25%
-- Opinion buffs for artists?
-
-### Rework supremacist
-- Charity: abhorrent
-- Mood buffs for ignoring charity requests
-- Mood buffs for harming charity seekers
-- Mood debuffs for completing charity requests
-
-Supremacist is already OP, this would make it slightly more OP.
-
-### Rework loyalist
-- Maybe rebalance it around VIE's nationalist meme?
-- Charity: disapproved
-- Mood debuffs for completing charity requests
-
-Loyalist is a weird middle-ground between guilty and supremacist that doesn't really do anything at all. I'd like to flesh it out.
-
-### Rework gender supremacy
-- suborinate genders can now be specialists but not leader or moral guide
+Proposed changes moved [docs](rework.md).
 
 # Legal
 Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This mod is not official and is not endorsed by Ludeon.
