@@ -8,7 +8,7 @@
 	</supportedVersions>
 	<modVersion>1.5.0</modVersion>
 	<modIconPath IgnoreIfNoMatchingField="True" />
-	<url>https://github.com/friedriceworld/ideology-expansion</url>
+	<url>https://github.com/RimCorePlus/Ideology</url>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Ideology</packageId>
