@@ -15,11 +15,18 @@
 			<displayName>Ideology</displayName>
 			<steamWorkshopUrl>IdeologysSteamStorePage</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
 	</modDependencies>
 	<loadBefore />
 	<loadAfter>
 		<li>coreplus.rebalance</li>
 		<li>coreplus.debloat</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
 		<li>sarg.alphamemes</li>
 	</loadAfter>
 	<incompatibleWith />
