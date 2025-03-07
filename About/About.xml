@@ -1,6 +1,6 @@
 ﻿<ModMetaData>
-	<packageId>friedrice.memes</packageId>
-	<name>ideology expansion</name>
+	<packageId>coreplus.ideology</packageId>
+	<name>[Core+] Ideology</name>
 	<author>boomer</author>
 	<description />
 	<supportedVersions>
@@ -15,17 +15,12 @@
 			<displayName>Ideology</displayName>
 			<steamWorkshopUrl>IdeologysSteamStorePage</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>friedrice.patches</packageId>
-			<displayName>fried rice</displayName>
-			<steamWorkshopUrl />
-			<downloadUrl>https://github.com/friedriceworld/fried-rice</downloadUrl>
-		</li>
 	</modDependencies>
 	<loadBefore />
 	<loadAfter>
-		<li>friedrice.patches</li>
-		<li>friedrice.noegg</li>
+		<li>coreplus.rebalance</li>
+		<li>coreplus.debloat</li>
+		<li>sarg.alphamemes</li>
 	</loadAfter>
 	<incompatibleWith />
 </ModMetaData>
