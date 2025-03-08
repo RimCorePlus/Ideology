@@ -18,26 +18,20 @@ Scope of this mod:
 - Rework memes, precepts, styles, and other content requiring Ideology
 
 ## Changes
+
 ### Individualist
 - Prevents drug use: prohibited
 - Prevents lovin: spouse only (moderate, strict), horrible, and prohibited
+
 ### Loyalist
 - Requires apostasy: abhorrent and horrible
+
 ### Proselytizer
 - Moved to low impact
+
 ### Tree connection
 - Renamed to gauranlen connection
 - Removes trees: desired requirement to focus the meme on gauranlen mechanics
-
-## Version 1.0:
-- [ ] Add rugged living meme
-- [ ] Rework collectivist
-- [ ] Rework individualist
-- [ ] Rework supremacist
-- [ ] Rework loyalist
-- [ ] Rework gender supremacy
-
-Proposed changes moved [docs](rework.md).
 
 ## Legal
 Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This mod is not official and is not endorsed by Ludeon.
