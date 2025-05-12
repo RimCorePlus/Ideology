@@ -18,7 +18,6 @@ Scope of this mod:
 - Rework memes, precepts, styles, and other content requiring Ideology
 
 ## Changes
-
 ### Individualist
 - Prevents drug use: prohibited
 - Prevents lovin: spouse only (moderate, strict), horrible, and prohibited
