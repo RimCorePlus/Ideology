@@ -32,5 +32,14 @@ Scope of this mod:
 - Renamed to gauranlen connection
 - Removes trees: desired requirement to focus the meme on gauranlen mechanics
 
+## Settings
+- Add drug cooking speed buff to high life meme
+- Allow nutrient paste to be eaten with almost any meme
+- Disable preferred apparel when ideologions are generated
+- Remove forced styles from memes and cultures
+- Remove tribal faction requirement for ideology apparel
+- Specialists can do dumb labor
+- Transhumanist meme grants medical specialist
+
 ## Legal
 Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This mod is not official and is not endorsed by Ludeon.

@@ -1,0 +1,14 @@
+<Patch>
+    <Operation Class="VFECore.PatchOperationToggableSequence">
+        <enabled>true</enabled>
+        <label>Increase drug cooking speed with high life meme</label>
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>//PreceptDef[defName="DrugUse_Essential"]/statFactors</xpath>
+                <value>
+                    <DrugCookingSpeed>1.5</DrugCookingSpeed>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

@@ -1,0 +1,11 @@
+<Patch>
+	<Operation Class="VFECore.PatchOperationToggableSequence">
+		<enabled>false</enabled>
+		<label>Remove faction requirement for ideology apparels like war mask</label>
+		<operations>
+			<li Class="PatchOperationRemove">
+				<xpath>//ThingDef/apparel/ideoDesireAllowedFactionCategoryTags</xpath>
+			</li>
+		</operations>
+	</Operation>
+</Patch>
