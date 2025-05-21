@@ -20,7 +20,6 @@
 	</modDependencies>
 	<loadAfter>
 		<li>boomer.rebalance</li>
-		<li>boomer.debloat</li>
 		<li>oskarpotocki.vanillafactionsexpanded.core</li>
 	</loadAfter>
 </ModMetaData>

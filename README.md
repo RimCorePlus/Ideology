@@ -13,31 +13,16 @@
 ![](About/Preview.png)\
 [![GPLv3][badge-license]](https://www.gnu.org/licenses/gpl-3.0) ![Supports Ideology][badge-dlc-ideology]
 
-Scope of this mod:
-- Add new memes, precepts, styles and other content requiring Ideology
-- Rework memes, precepts, styles, and other content requiring Ideology
-
-## Changes
-### Individualist
-- Prevents drug use: prohibited
-- Prevents lovin: spouse only (moderate, strict), horrible, and prohibited
-
-### Loyalist
-- Requires apostasy: abhorrent and horrible
-
-### Proselytizer
-- Moved to low impact
-
-### Tree connection
-- Renamed to gauranlen connection
-- Removes trees: desired requirement to focus the meme on gauranlen mechanics
-
 ## Settings
-- Add drug cooking speed buff to high life meme
-- Allow nutrient paste to be eaten with almost any meme
+- Allow nutrient paste to be eaten with almost any meme (excl. cannibal, flesh purity, and rancher)
 - Disable preferred apparel when ideologions are generated
+- Increase drug cooking speed with high life meme
+- Move proselytizer meme to low impact
+- Remove faction requirement for ideology apparels
 - Remove forced styles from memes and cultures
-- Remove tribal faction requirement for ideology apparel
+- Rework individualist (makes lovin' restricted and drug use prohibted precepts incompatible)
+- Rework loyalist (requires apostasy abhorrent or horrible)
+- Rename and tweak tree connection meme (renamed to gauranlen connection and removed trees desired precept)
 - Specialists can do dumb labor
 - Transhumanist meme grants medical specialist
 
