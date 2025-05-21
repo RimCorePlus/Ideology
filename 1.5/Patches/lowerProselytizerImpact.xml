@@ -1,0 +1,12 @@
+<Patch>
+	<Operation Class="VFECore.PatchOperationToggableSequence">
+		<enabled>true</enabled>
+		<label>Move proselytizer meme to low impact</label>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>//MemeDef[defName="Proselytizer"]/impact/text()</xpath>
+				<value>1</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

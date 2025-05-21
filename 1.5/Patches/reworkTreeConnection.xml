@@ -1,0 +1,21 @@
+<Patch>
+    <Operation Class="VFECore.PatchOperationToggableSequence">
+        <enabled>true</enabled>
+        <label>Rename and tweak tree connection meme</label>
+        <operations>
+            <!--rename tree connection to gauranlen connection-->
+            <li Class="PatchOperationReplace">
+                <xpath>//MemeDef[defName="TreeConnection"]/label/text()</xpath>
+                <value>gauranlen connection</value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>//MemeDef[defName="TreeConnection"]/description/text()</xpath>
+                <value>Gauranlen trees are the essence of life, and we must be near them.</value>
+            </li>
+            <!--remove trees: desired precept requirement from gauranlen/tree connection meme-->
+            <li Class="PatchOperationRemove">
+                <xpath>//MemeDef[defName="TreeConnection"]/requireOne/li[li="Trees_Desired"]</xpath>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

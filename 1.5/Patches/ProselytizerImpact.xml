@@ -1,7 +1,0 @@
-<Patch>
-	<!--move proselytizer to low impact-->
-	<Operation Class="PatchOperationReplace">
-		<xpath>//MemeDef[defName="Proselytizer"]/impact/text()</xpath>
-		<value>1</value>
-	</Operation>
-</Patch>

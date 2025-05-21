@@ -1,7 +1,7 @@
 <Patch>
 	<Operation Class="VFECore.PatchOperationToggableSequence">
 		<enabled>true</enabled>
-		<label>rework loyalist</label>
+		<label>Rework loyalist</label>
 		<operations>
 			<li Class="PatchOperationConditional">
 				<xpath>//MemeDef[defName="Loyalist"]/requireOne</xpath>
